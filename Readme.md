@@ -1,0 +1,1 @@
+This repository was created for educational and learning purposes only about the React JS framework and how to use its different functions and components.
